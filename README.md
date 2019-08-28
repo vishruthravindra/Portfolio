@@ -2,7 +2,15 @@
 ##### Data sets used are all open source. 
 
 ___
-##### Project 1 - Used Car sales from a website 
+##### Project 1 (Tableau)  -“Driver Activation & Engagement” sample data set for a ride sharing company
+1. Drivers completing a first trip within 30 days of sign-up and the remaining drivers.
+![alt text](https://github.com/vishruthravindra/Portfolio/blob/master/ActivationCityData.png "Signup Screehshot")
+
+2.The second dashboard is focused on establishing various activation trends and retention patterns
+![alt text](https://github.com/vishruthravindra/Portfolio/blob/master/ActivationTrends.png "Activation and Trends Screenshot")
+___
+
+##### Project 2 (Microsoft PowerBI) - Used Car sales from a website 
 1. Summary Page Summary of used car sales by fuel type.
 ![alt text](https://github.com/vishruthravindra/Portfolio/blob/master/PBI%20Files/UsedCarSales/Used%20Car%20Sales%20Snapshot.jpg "Summary Screehshot")
 
